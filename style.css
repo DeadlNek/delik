@@ -1,7 +1,6 @@
 @font-face {
-  font-family: "amoren";
-  src: local("amoren"),
-       url("amoren.woff") format("woff")
+  font-family: 'amoren';
+  src: url('./amoren.woff') format("woff")
 }
 body {
   margin: 0;
