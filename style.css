@@ -1,9 +1,7 @@
 @font-face {
   font-family: "Amoren";
   src: local("Amoren"),
-       url("Amoren.woff2") format("woff2"),
-       url("Amoren.woff") format("woff"),
-       url("Amoren.ttf") format("truetype");
+       url("amoren.woff") format("woff"),
 }
 body {
   margin: 0;
