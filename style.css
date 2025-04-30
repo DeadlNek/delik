@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "Amoren";
-  src: local("Amoren"),
-       url("amoren.woff") format("woff"),
+  font-family: "amoren";
+  src: local("amoren"),
+       url("amoren.woff") format("woff")
 }
 body {
   margin: 0;
@@ -29,7 +29,7 @@ header h1 {
   margin: 0;
   font-size: 4rem;
   color: #b66a86;
-  font-family: 'Amoren';
+  font-family: 'amoren';
 }
 
 main {
